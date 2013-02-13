@@ -1,0 +1,7 @@
+is null and not null will show nulls
+null contaminates other results
+if you have a condition statement, nulls aren't counted and can mess up your results
+NULL is stored differently from other values, it is not a string
+
+control D or exit - get out of sqlite3
+all commands end with a ;
